@@ -1,4 +1,4 @@
-# -Stock-Price-Prediction
+# Stock-Price-Prediction
 Methodology:
 1.Preprocessing and Cleaning
 2.Feature Extraction
