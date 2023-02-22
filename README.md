@@ -1,5 +1,4 @@
-# Stock-Price-Prediction
-Methodology:
+# LSTM ChatbotMethodology:
 1.Preprocessing and Cleaning
 2.Feature Extraction
 3.Twitter Sentiment Analysis and Score
